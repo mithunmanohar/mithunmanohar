@@ -11,7 +11,7 @@
 <a href="https://github.com/mithunmanohar">
   <img align="left" alt="Mithun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="medium.com/@mithunmanohar">
+<a href="https://medium.com/@mithunmanohar">
   <img align="left" alt="Mithun's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
