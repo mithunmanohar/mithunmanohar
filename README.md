@@ -1,16 +1,45 @@
-### Hi there 👋
+## Hi, I'm [Mithun Manohar!](https:www.google.com)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**mithunmanohar/mithunmanohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/mithunmanohar_">
+  <img align="left" alt="Mithun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/mithunmanohar/">
+  <img align="left" alt="Mithun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/mithunmanohar">
+  <img align="left" alt="Mithun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+
+<br/>
+<br/>
+
+<!-- **About Me :** -->
+
+```bash
+> Mithun --info 👨
+
+> 🔭 I’m currently work for Kmart Australia
+> 🌱 I’m build data platforms and pipelines
+> 🌱 I'm passionate about data engineering, analytics, clean code
+> 💬 Ask me about data engineering, kafka, tech, productivity
+```
+
+
+<!-- **Love For Community:** -->
+
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://github.com/mithunmanohar/stack-icons/blob/master/logos/kafka-icon.svg"></code>
+<code><img height="20" src="https://github.com/mithunmanohar/stack-icons/blob/master/logos/airflow.svg"></code>
+<code><img height="20" src="https://github.com/mithunmanohar/stack-icons/blob/master/logos/elasticsearch.svg"></code>
+<code><img height="20" src="https://github.com/mithunmanohar/stack-icons/blob/master/logos/kibana.svg"></code>
+
+[![Moulik's github stats](https://github-readme-stats.vercel.app/api?username=mithunmanohar&show_icons=true)](https://github.com/mithunmanohar)
+
