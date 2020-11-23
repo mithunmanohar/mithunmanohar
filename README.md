@@ -11,7 +11,9 @@
 <a href="https://github.com/mithunmanohar">
   <img align="left" alt="Mithun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+<a href="medium.com/@mithunmanohar">
+  <img align="left" alt="Mithun's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
 <br/>
 <br/>
@@ -22,7 +24,7 @@
 > Mithun --info 👨
 
 > 🔭 I’m currently work for Kmart Australia
-> 🌱 I’m build data platforms and pipelines
+> 🌱 I build data platforms and pipelines
 > 🌱 I'm passionate about data engineering, analytics, clean code
 > 💬 Ask me about data engineering, kafka, tech, productivity
 ```
