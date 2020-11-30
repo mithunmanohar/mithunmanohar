@@ -23,7 +23,7 @@
 ```bash
 > Mithun --info 👨
 
-> 🔭 I’m currently work for Kmart Australia
+> 🔭 I’m a Data Engineer, currently working for Kmart Australia
 > 🌱 I build data platforms and pipelines
 > 🌱 I'm passionate about data engineering, analytics, clean code
 > 💬 Ask me about data engineering, kafka, tech, productivity
