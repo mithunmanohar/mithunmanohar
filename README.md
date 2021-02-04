@@ -8,9 +8,6 @@
   <img align="left" alt="Mithun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/mithunmanohar">
-  <img align="left" alt="Mithun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://medium.com/@mithunmanohar">
   <img align="left" alt="Mithun's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
@@ -25,7 +22,7 @@
 
 > 🔭 I’m a Data Engineer, currently working for Kmart Australia
 > 🌱 I build data platforms and pipelines
-> 🌱 I'm passionate about data engineering, analytics, clean code
+> 🌱 I'm passionate about data engineering, analytics, IOT, clean code
 > 💬 Ask me about data engineering, kafka, tech, productivity
 ```
 
