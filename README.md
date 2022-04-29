@@ -40,5 +40,5 @@
 <code><img height="20" src="https://github.com/mithunmanohar/stack-icons/blob/master/logos/elasticsearch.svg"></code>
 <code><img height="20" src="https://github.com/mithunmanohar/stack-icons/blob/master/logos/kibana.svg"></code>
 
-[![Moulik's github stats](https://github-readme-stats.vercel.app/api?username=mithunmanohar&show_icons=true&count_private=true)](https://github.com/mithunmanohar)
+[![Mithuns's github stats](https://github-readme-stats.vercel.app/api?username=mithunmanohar&show_icons=true&count_private=true)](https://github.com/mithunmanohar)
 
