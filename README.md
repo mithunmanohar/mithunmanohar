@@ -1,4 +1,4 @@
-## Hi, I'm [Mithun Manohar!](https:www.google.com)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi, I'm Mithun Manohar!
 
 <a href="https://twitter.com/mithunmanohar_">
   <img align="left" alt="Mithun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
