@@ -20,10 +20,10 @@
 ```bash
 > Mithun --info 👨
 
-> 🔭 I’m a Data Engineer and currently work for Kmart Australia
-> 🌱 I build data platforms and pipelines
-> 🌱 I'm passionate about data engineering, analytics, IOT, clean code
-> 💬 Ask me about data engineering, kafka, tech, productivity
+> 🔭 I’m a Machine Learning Engineer and currently work for Kmart Australia
+> 🌱 I build ML/data platforms and pipelines
+> 🌱 I'm passionate about ML/data engineering, analytics, IOT, clean code
+> 💬 Ask me about ML engineering, Kubernetes, kafka, tech, productivity
 ```
 
 
@@ -37,7 +37,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://github.com/mithunmanohar/stack-icons/blob/master/logos/kafka-icon.svg"></code>
 <code><img height="20" src="https://github.com/mithunmanohar/stack-icons/blob/master/logos/airflow.svg"></code>
-<code><img height="20" src="https://github.com/mithunmanohar/stack-icons/blob/master/logos/elasticsearch.svg"></code>
+<code><img height="20" src="https://github.com/mithunmanohar/stack-icons/blob/master/logos/kubernetes.svg"></code>
 <code><img height="20" src="https://github.com/mithunmanohar/stack-icons/blob/master/logos/kibana.svg"></code>
 
 
